@@ -203,9 +203,22 @@ export interface Datum {
   attributes: Attributes;
   relationships: Relationships;
 }
-
-export interface SearchResponse {
+export interface MetaData {
+  count: number
+}
+export interface Response {
   data: Datum[];
+}
+
+export interface PaginationLinks {
+  first: string,
+  prev: string,
+  last: string
+}
+export interface SearchResponse {
+  data: Datum[],
+  meta: MetaData,
+  links: PaginationLinks
 }
 
 
