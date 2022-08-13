@@ -8,7 +8,7 @@ import AnimePage from './pages/anime_page';
 import Navbar from './components/navbar';
 import HomeManga from './pages/home_manga';
 import MangaPage from './pages/manga_page';
-
+import Result from './components/result';
 function App() {
   return (
     <>
@@ -19,6 +19,7 @@ function App() {
           <Route path='manga' element={<HomeManga />} />
           <Route path='anime/:id' element={<AnimePage />} />
           <Route path='manga/:id' element={<MangaPage />} />
+          <Route path='search/' element={<Result />} />
         </Routes>
       </MDBContainer>
     </>
