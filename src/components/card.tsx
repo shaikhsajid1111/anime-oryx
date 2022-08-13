@@ -4,8 +4,9 @@ import { Datum } from '../interfaces/responseInterface';
 import { Link } from 'react-router-dom';
 
 const Card: React.FC<Datum> = (cardData) => {
+  const link: string = cardData.links.self.includes('https://') ? cardData.links.self.split('edge').slice(-1)[0] : cardData.links.self;
   return (
-    <Link to={cardData.links.self}>
+    <Link to={link}>
       <MDBCard>
         <MDBCardImage position='top' alt='...' className='hover-overlay ripple' src={cardData.attributes.posterImage.medium} />
         <MDBCardBody>

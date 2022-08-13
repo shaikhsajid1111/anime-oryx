@@ -1,0 +1,10 @@
+.card-body {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card:hover {
+  opacity: .7;
+  cursor: pointer;
+}

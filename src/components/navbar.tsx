@@ -9,13 +9,21 @@ import {
   MDBBtn,
   MDBIcon,
   MDBNavbarNav,
-  MDBInputGroup
+  MDBInputGroup,
+  MDBDropdown,
+  MDBDropdownToggle,
+  MDBDropdownMenu,
+  MDBDropdownLink,
+  MDBDropdownItem
 } from 'mdb-react-ui-kit';
-import { Link, useMatch, useResolvedPath } from 'react-router-dom';
+import { Link, useMatch, useResolvedPath, useNavigate } from 'react-router-dom';
 
 export default function Navbar() {
   const [showNavNoTogglerSecond, setShowNavNoTogglerSecond] = useState(false);
   const [page, setPage] = useState<string>('anime');
+  const [query, setQuery] = useState<string>('');
+  const navigate = useNavigate();
+  const [contentType, setContentType] = useState<string>('Anime');
 
 
   return (
@@ -40,9 +48,24 @@ export default function Navbar() {
                   : <CustomLink to='/'>Anime</CustomLink>}
               </MDBNavbarItem>
             </MDBNavbarNav>
-            <MDBInputGroup tag="form" className='d-flex w-auto mb-3'>
-              <input className='form-control' placeholder="Type query" aria-label="Search" type='Search' />
-              <MDBBtn outline>Search</MDBBtn>
+            <MDBDropdown className='d-flex w-auto mb-3 ml-3'>
+              <MDBDropdownToggle color='light'>{contentType}</MDBDropdownToggle>
+              <MDBDropdownMenu>
+                <MDBDropdownItem onClick={() => setContentType('anime')}>
+                  <MDBDropdownLink >Anime</MDBDropdownLink>
+                </MDBDropdownItem>
+                <MDBDropdownItem>
+                  <MDBDropdownLink onClick={() => setContentType('manga')}>Manga</MDBDropdownLink>
+                </MDBDropdownItem>
+              </MDBDropdownMenu>
+            </MDBDropdown>
+            <MDBInputGroup className='d-flex w-auto mb-3'>
+              <input className='form-control' placeholder="Type query" aria-label="Search" type='Search' onChange={(e) => setQuery(e.target.value)} />
+              <MDBBtn outline onClick={() => {
+                setQuery(query);
+                navigate(`/search?q=${query}&type=${contentType.toLowerCase()}&offset=1`);
+              }}>Search</MDBBtn>
+
             </MDBInputGroup>
           </MDBCollapse>
         </MDBContainer>

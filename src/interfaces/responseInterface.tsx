@@ -204,7 +204,7 @@ export interface Datum {
   relationships: Relationships;
 }
 
-export interface Response {
+export interface SearchResponse {
   data: Datum[];
 }
 

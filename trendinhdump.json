@@ -1,0 +1,2199 @@
+{
+  "data": [
+    {
+      "id": "12",
+      "type": "anime",
+      "links": {
+        "self": "/anime/12"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T16:00:25.722Z",
+        "updatedAt": "2022-08-06T06:04:43.845Z",
+        "slug": "one-piece",
+        "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy’s reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n[Written by MAL Rewrite]",
+        "description": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy’s reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n[Written by MAL Rewrite]",
+        "coverImageTopOffset": 50,
+        "titles": {
+          "en": "One Piece",
+          "en_jp": "One Piece",
+          "ja_jp": "ONE PIECE"
+        },
+        "canonicalTitle": "One Piece",
+        "abbreviatedTitles": [
+          "ワンピース"
+        ],
+        "averageRating": "83.2",
+        "ratingFrequencies": {
+          "2": "8004"
+        },
+        "userCount": 186101,
+        "favoritesCount": 6578,
+        "startDate": "1999-10-20",
+        "endDate": null,
+        "nextRelease": "2022-08-07T09:30:00.000+09:00",
+        "popularityRank": 14,
+        "ratingRank": 30,
+        "ageRating": "PG",
+        "ageRatingGuide": "Teens 13 or older",
+        "subtype": "TV",
+        "status": "current",
+        "tba": null,
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/12/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/12/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/12/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/12/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/12/original.png",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 110,
+                "height": 156
+              },
+              "large": {
+                "width": 550,
+                "height": 780
+              },
+              "small": {
+                "width": 284,
+                "height": 402
+              },
+              "medium": {
+                "width": 390,
+                "height": 554
+              }
+            }
+          }
+        },
+        "coverImage": {
+          "tiny": "https://media.kitsu.io/anime/12/cover_image/tiny-cd1b0729d5c15400bfa2441ea3751e86.jpeg",
+          "large": "https://media.kitsu.io/anime/12/cover_image/large-3e72f400a87b5241780c5082f0582611.jpeg",
+          "small": "https://media.kitsu.io/anime/12/cover_image/small-8d0cbc39cac65d5d7c4db5f5b3742ae7.jpeg",
+          "original": "https://media.kitsu.io/anime/12/cover_image/21ecb556255bd46b95aea4779d19789f.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 840,
+                "height": 200
+              },
+              "large": {
+                "width": 3360,
+                "height": 800
+              },
+              "small": {
+                "width": 1680,
+                "height": 400
+              }
+            }
+          }
+        },
+        "episodeCount": null,
+        "episodeLength": 24,
+        "totalLength": 28656,
+        "youtubeVideoId": "CmTeYj2FmRc",
+        "showType": "TV",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "/anime/12/relationships/genres",
+            "related": "/anime/12/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "/anime/12/relationships/categories",
+            "related": "/anime/12/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "/anime/12/relationships/castings",
+            "related": "/anime/12/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "/anime/12/relationships/installments",
+            "related": "/anime/12/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "/anime/12/relationships/mappings",
+            "related": "/anime/12/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "/anime/12/relationships/reviews",
+            "related": "/anime/12/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "/anime/12/relationships/media-relationships",
+            "related": "/anime/12/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "/anime/12/relationships/characters",
+            "related": "/anime/12/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "/anime/12/relationships/staff",
+            "related": "/anime/12/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "/anime/12/relationships/productions",
+            "related": "/anime/12/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "/anime/12/relationships/quotes",
+            "related": "/anime/12/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "/anime/12/relationships/episodes",
+            "related": "/anime/12/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "/anime/12/relationships/streaming-links",
+            "related": "/anime/12/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "/anime/12/relationships/anime-productions",
+            "related": "/anime/12/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "/anime/12/relationships/anime-characters",
+            "related": "/anime/12/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "/anime/12/relationships/anime-staff",
+            "related": "/anime/12/anime-staff"
+          }
+        }
+      }
+    }
+  ]
+},
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/1"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T16:00:13.609Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "cowboy-bebop",
+        "synopsis": "In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as \"Cowboys\". The ragtag team aboard the spaceship Bebop are two such individuals.\nMellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each member's dark and mysterious past little by little. \nWell-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.\n\n(Source: MAL Rewrite)",
+        "description": "In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as \"Cowboys\". The ragtag team aboard the spaceship Bebop are two such individuals.\nMellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each member's dark and mysterious past little by little. \nWell-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.\n\n(Source: MAL Rewrite)",
+        "coverImageTopOffset": 400,
+        "titles": {
+          "en": "Cowboy Bebop",
+          "en_jp": "Cowboy Bebop",
+          "ja_jp": "カウボーイビバップ"
+        },
+        "canonicalTitle": "Cowboy Bebop",
+        "abbreviatedTitles": [
+          "COWBOY BEBOP"
+        ],
+        "averageRating": "82.05",
+        "ratingFrequencies": {
+          "2": "4444",
+          "3": "61",
+          "4": "431",
+          "5": "36",
+          "6": "203",
+          "7": "40",
+          "8": "4140",
+          "9": "54",
+          "10": "864",
+          "11": "79",
+          "12": "2535",
+          "13": "166",
+          "14": "8802",
+          "15": "437",
+          "16": "9118",
+          "17": "908",
+          "18": "11161",
+          "19": "831",
+          "20": "37065"
+        },
+        "userCount": 121662,
+        "favoritesCount": 4580,
+        "startDate": "1998-04-03",
+        "endDate": "1999-04-24",
+        "nextRelease": null,
+        "popularityRank": 31,
+        "ratingRank": 111,
+        "ageRating": "R",
+        "ageRatingGuide": "17+ (violence & profanity)",
+        "subtype": "TV",
+        "status": "finished",
+        "tba": null,
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/1/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/1/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/1/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/1/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/1/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 110,
+                "height": 156
+              },
+              "large": {
+                "width": 550,
+                "height": 780
+              },
+              "small": {
+                "width": 284,
+                "height": 402
+              },
+              "medium": {
+                "width": 390,
+                "height": 554
+              }
+            }
+          }
+        },
+        "coverImage": {
+          "tiny": "https://media.kitsu.io/anime/1/cover_image/tiny-1f92cfe65c1b31d8b47e36f025d32b35.jpeg",
+          "large": "https://media.kitsu.io/anime/1/cover_image/large-88da0208ac7fdd1a978de8b539008bd8.jpeg",
+          "small": "https://media.kitsu.io/anime/1/cover_image/small-33ff2ab0f599bc15ed73856ecd13fe71.jpeg",
+          "original": "https://media.kitsu.io/anime/1/cover_image/fb57e5f25616633a41f0f5f1ded938ee.jpeg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 840,
+                "height": 200
+              },
+              "large": {
+                "width": 3360,
+                "height": 800
+              },
+              "small": {
+                "width": 1680,
+                "height": 400
+              }
+            }
+          }
+        },
+        "episodeCount": 26,
+        "episodeLength": 25,
+        "totalLength": 626,
+        "youtubeVideoId": "qig4KOK2R2g",
+        "showType": "TV",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/1/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/1/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/1/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/1/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/1/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/1/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/1/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/1/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/1/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/1/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/1/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/1/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/1/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/1/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/1/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/1/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/1/anime-staff"
+          }
+        }
+      }
+    },
+    {
+      "id": "2",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/2"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T16:00:16.085Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "cowboy-bebop-tengoku-no-tobira",
+        "synopsis": "Another day, another bounty—such is the life of the often unlucky crew of the Bebop. However, this routine is interrupted when Faye, who is chasing a fairly worthless target on Mars, witnesses an oil tanker suddenly explode, causing mass hysteria. As casualties mount due to a strange disease spreading through the smoke from the blast, a whopping three hundred million woolong price is placed on the head of the supposed perpetrator.\nWith lives at stake and a solution to their money problems in sight, the Bebop crew springs into action. Spike, Jet, Faye, and Edward, followed closely by Ein, split up to pursue different leads across Alba City. Through their individual investigations, they discover a cover-up scheme involving a pharmaceutical company, revealing a plot that reaches much further than the ragtag team of bounty hunters could have realized.\n[Written by MAL Rewrite]",
+        "description": "Another day, another bounty—such is the life of the often unlucky crew of the Bebop. However, this routine is interrupted when Faye, who is chasing a fairly worthless target on Mars, witnesses an oil tanker suddenly explode, causing mass hysteria. As casualties mount due to a strange disease spreading through the smoke from the blast, a whopping three hundred million woolong price is placed on the head of the supposed perpetrator.\nWith lives at stake and a solution to their money problems in sight, the Bebop crew springs into action. Spike, Jet, Faye, and Edward, followed closely by Ein, split up to pursue different leads across Alba City. Through their individual investigations, they discover a cover-up scheme involving a pharmaceutical company, revealing a plot that reaches much further than the ragtag team of bounty hunters could have realized.\n[Written by MAL Rewrite]",
+        "coverImageTopOffset": 220,
+        "titles": {
+          "en": "Cowboy Bebop: The Movie",
+          "en_jp": "Cowboy Bebop: Tengoku no Tobira",
+          "en_us": "Cowboy Bebop: Knockin' on Heaven's Door",
+          "ja_jp": "カウボーイビバップ天国の扉"
+        },
+        "canonicalTitle": "Cowboy Bebop: Knockin' on Heaven's Door",
+        "abbreviatedTitles": [],
+        "averageRating": "81.86",
+        "ratingFrequencies": {
+          "2": "789",
+          "3": "9",
+          "4": "47",
+          "5": "7",
+          "6": "31",
+          "7": "5",
+          "8": "653",
+          "9": "3",
+          "10": "192",
+          "11": "13",
+          "12": "785",
+          "13": "48",
+          "14": "2775",
+          "15": "127",
+          "16": "4461",
+          "17": "289",
+          "18": "3838",
+          "19": "161",
+          "20": "6861"
+        },
+        "userCount": 32308,
+        "favoritesCount": 308,
+        "startDate": "2001-09-01",
+        "endDate": "2001-09-01",
+        "nextRelease": null,
+        "popularityRank": 299,
+        "ratingRank": 274,
+        "ageRating": "R",
+        "ageRatingGuide": "17+ (violence & profanity)",
+        "subtype": "movie",
+        "status": "finished",
+        "tba": "",
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/2/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/2/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/2/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/2/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/2/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 110,
+                "height": 156
+              },
+              "large": {
+                "width": 550,
+                "height": 780
+              },
+              "small": {
+                "width": 284,
+                "height": 402
+              },
+              "medium": {
+                "width": 390,
+                "height": 554
+              }
+            }
+          }
+        },
+        "coverImage": {
+          "tiny": "https://media.kitsu.io/anime/cover_images/2/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/cover_images/2/large.jpg",
+          "small": "https://media.kitsu.io/anime/cover_images/2/small.jpg",
+          "original": "https://media.kitsu.io/anime/cover_images/2/original.png",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 840,
+                "height": 200
+              },
+              "large": {
+                "width": 3360,
+                "height": 800
+              },
+              "small": {
+                "width": 1680,
+                "height": 400
+              }
+            }
+          }
+        },
+        "episodeCount": 1,
+        "episodeLength": 114,
+        "totalLength": 114,
+        "youtubeVideoId": "hc7IxJ93jtM",
+        "showType": "movie",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/2/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/2/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/2/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/2/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/2/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/2/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/2/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/2/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/2/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/2/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/2/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/2/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/2/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/2/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/2/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/2/anime-staff"
+          }
+        }
+      }
+    },
+    {
+      "id": "3424",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/3424"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T16:52:41.711Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "cowboy-bebop-session-xx-mish-mash-blues",
+        "synopsis": "Due to the violence portrayed in the Cowboy Bebop world and violence in Japanese schools, the series was briefly cancelled and an extra session was created as a final episode to the first thirteen episodes aired. Called \"Session XX: Mish-Mash Blues,\" a compilation of clips from previous episodes, it aired on June 26, 1998 on TV Tokyo. The episode was never released on DVD. In it, the characters provide a philosophical commentary and end with the words: This Is Not The End. You Will See The Real \"Cowboy Bebop\" Someday!\n(Source: AniDB)",
+        "description": "Due to the violence portrayed in the Cowboy Bebop world and violence in Japanese schools, the series was briefly cancelled and an extra session was created as a final episode to the first thirteen episodes aired. Called \"Session XX: Mish-Mash Blues,\" a compilation of clips from previous episodes, it aired on June 26, 1998 on TV Tokyo. The episode was never released on DVD. In it, the characters provide a philosophical commentary and end with the words: This Is Not The End. You Will See The Real \"Cowboy Bebop\" Someday!\n(Source: AniDB)",
+        "coverImageTopOffset": 9,
+        "titles": {
+          "en": "Cowboy Bebop Session XX",
+          "en_jp": "Cowboy Bebop: Yose Atsume Blues",
+          "en_us": "Cowboy Bebop Session XX",
+          "ja_jp": "カウボーイビバップ よせあつめブルース"
+        },
+        "canonicalTitle": "Cowboy Bebop: Yose Atsume Blues",
+        "abbreviatedTitles": [
+          "Yoseatsume Blues",
+          "Cowboy Bebop Session XX",
+          "Cowboy Bebop Episode 27 Session XX",
+          "Cowboy Bebop Session XX: Mish-Mash Blues"
+        ],
+        "averageRating": "73.73",
+        "ratingFrequencies": {
+          "2": "12",
+          "3": "1",
+          "4": "7",
+          "5": "0",
+          "6": "33",
+          "7": "0",
+          "8": "71",
+          "9": "1",
+          "10": "176",
+          "11": "2",
+          "12": "314",
+          "13": "5",
+          "14": "433",
+          "15": "8",
+          "16": "449",
+          "17": "12",
+          "18": "118",
+          "19": "2",
+          "20": "362"
+        },
+        "userCount": 3849,
+        "favoritesCount": 16,
+        "startDate": "1998-06-26",
+        "endDate": "1998-06-26",
+        "nextRelease": null,
+        "popularityRank": 2409,
+        "ratingRank": 2429,
+        "ageRating": "R",
+        "ageRatingGuide": "17+ (violence & profanity)",
+        "subtype": "special",
+        "status": "finished",
+        "tba": null,
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/3424/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/3424/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/3424/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/3424/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/3424/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 110,
+                "height": 156
+              },
+              "large": {
+                "width": 550,
+                "height": 780
+              },
+              "small": {
+                "width": 284,
+                "height": 402
+              },
+              "medium": {
+                "width": 390,
+                "height": 554
+              }
+            }
+          }
+        },
+        "coverImage": {
+          "tiny": "https://media.kitsu.io/anime/cover_images/3424/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/cover_images/3424/large.jpg",
+          "small": "https://media.kitsu.io/anime/cover_images/3424/small.jpg",
+          "original": "https://media.kitsu.io/anime/cover_images/3424/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 840,
+                "height": 200
+              },
+              "large": {
+                "width": 3360,
+                "height": 800
+              },
+              "small": {
+                "width": 1680,
+                "height": 400
+              }
+            }
+          }
+        },
+        "episodeCount": 1,
+        "episodeLength": 27,
+        "totalLength": 27,
+        "youtubeVideoId": null,
+        "showType": "special",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/3424/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/3424/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/3424/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/3424/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/3424/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/3424/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/3424/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/3424/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/3424/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/3424/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/3424/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/3424/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/3424/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/3424/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/3424/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3424/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/3424/anime-staff"
+          }
+        }
+      }
+    },
+    {
+      "id": "7604",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/7604"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T17:58:36.157Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "cowboy-bebop-ein-no-natsuyasumi",
+        "synopsis": "Picture drama featuring Ein.",
+        "description": "Picture drama featuring Ein.",
+        "coverImageTopOffset": 0,
+        "titles": {
+          "en": "Ein's Summer Vacation",
+          "en_jp": "Cowboy Bebop: Ein no Natsuyasumi",
+          "en_us": "Ein's Summer Vacation",
+          "ja_jp": "アインのなつやすみ"
+        },
+        "canonicalTitle": "Cowboy Bebop: Ein no Natsuyasumi",
+        "abbreviatedTitles": [
+          "Cowboy Bebop Special",
+          "Ein's Summer Holiday"
+        ],
+        "averageRating": "59.48",
+        "ratingFrequencies": {
+          "2": "48",
+          "3": "2",
+          "4": "104",
+          "5": "2",
+          "6": "47",
+          "7": "0",
+          "8": "112",
+          "9": "1",
+          "10": "290",
+          "11": "6",
+          "12": "558",
+          "13": "1",
+          "14": "195",
+          "15": "2",
+          "16": "93",
+          "17": "7",
+          "18": "27",
+          "19": "2",
+          "20": "123"
+        },
+        "userCount": 2279,
+        "favoritesCount": 4,
+        "startDate": "2012-12-21",
+        "endDate": "2012-12-21",
+        "nextRelease": null,
+        "popularityRank": 3286,
+        "ratingRank": 10238,
+        "ageRating": "G",
+        "ageRatingGuide": "All Ages",
+        "subtype": "special",
+        "status": "finished",
+        "tba": null,
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/7604/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/7604/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/7604/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/7604/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/7604/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 110,
+                "height": 156
+              },
+              "large": {
+                "width": 550,
+                "height": 780
+              },
+              "small": {
+                "width": 284,
+                "height": 402
+              },
+              "medium": {
+                "width": 390,
+                "height": 554
+              }
+            }
+          }
+        },
+        "coverImage": {
+          "tiny": "https://media.kitsu.io/anime/cover_images/7604/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/cover_images/7604/large.jpg",
+          "small": "https://media.kitsu.io/anime/cover_images/7604/small.jpg",
+          "original": "https://media.kitsu.io/anime/cover_images/7604/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 840,
+                "height": 200
+              },
+              "large": {
+                "width": 3360,
+                "height": 800
+              },
+              "small": {
+                "width": 1680,
+                "height": 400
+              }
+            }
+          }
+        },
+        "episodeCount": 1,
+        "episodeLength": 1,
+        "totalLength": 1,
+        "youtubeVideoId": null,
+        "showType": "special",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/7604/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/7604/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/7604/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/7604/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/7604/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/7604/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/7604/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/7604/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/7604/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/7604/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/7604/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/7604/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/7604/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/7604/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/7604/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/7604/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/7604/anime-staff"
+          }
+        }
+      }
+    },
+    {
+      "id": "40909",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/40909"
+      },
+      "attributes": {
+        "createdAt": "2018-02-21T06:23:28.517Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "chibikko-cowboy",
+        "synopsis": "A little boy has fun being a cowboy out in the Wild West.",
+        "description": "A little boy has fun being a cowboy out in the Wild West.",
+        "coverImageTopOffset": 0,
+        "titles": {
+          "en_jp": "Chibikko Cowboy",
+          "ja_jp": "ちびっこカウボーイ"
+        },
+        "canonicalTitle": "Chibikko Cowboy",
+        "abbreviatedTitles": [
+          "Minna no Uta"
+        ],
+        "averageRating": null,
+        "ratingFrequencies": {
+          "2": "3",
+          "6": "1",
+          "8": "1",
+          "9": "1",
+          "10": "6",
+          "12": "11",
+          "14": "1",
+          "18": "0",
+          "20": "1"
+        },
+        "userCount": 21,
+        "favoritesCount": 0,
+        "startDate": "1966-08-01",
+        "endDate": "1966-08-01",
+        "nextRelease": null,
+        "popularityRank": 15856,
+        "ratingRank": null,
+        "ageRating": "G",
+        "ageRatingGuide": "All Ages",
+        "subtype": "music",
+        "status": "finished",
+        "tba": null,
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/40909/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/40909/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/40909/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/40909/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/40909/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 110,
+                "height": 156
+              },
+              "large": {
+                "width": 550,
+                "height": 780
+              },
+              "small": {
+                "width": 284,
+                "height": 402
+              },
+              "medium": {
+                "width": 390,
+                "height": 554
+              }
+            }
+          }
+        },
+        "coverImage": null,
+        "episodeCount": 1,
+        "episodeLength": 2,
+        "totalLength": 2,
+        "youtubeVideoId": null,
+        "showType": "music",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/40909/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/40909/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/40909/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/40909/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/40909/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/40909/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/40909/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/40909/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/40909/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/40909/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/40909/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/40909/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/40909/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/40909/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/40909/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40909/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/40909/anime-staff"
+          }
+        }
+      }
+    },
+    {
+      "id": "40933",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/40933"
+      },
+      "attributes": {
+        "createdAt": "2018-02-21T06:24:24.659Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "waga-na-wa-cowboy",
+        "synopsis": "A child plays cowboy with their wooden horse.",
+        "description": "A child plays cowboy with their wooden horse.",
+        "coverImageTopOffset": 0,
+        "titles": {
+          "en_jp": "Waga Na wa Cowboy",
+          "ja_jp": "わが名はカウボーイ"
+        },
+        "canonicalTitle": "Waga Na wa Cowboy",
+        "abbreviatedTitles": [
+          "Minna no Uta"
+        ],
+        "averageRating": null,
+        "ratingFrequencies": {
+          "2": "2",
+          "6": "1",
+          "8": "1",
+          "10": "2",
+          "12": "10",
+          "14": "1",
+          "16": "0",
+          "20": "1"
+        },
+        "userCount": 17,
+        "favoritesCount": 0,
+        "startDate": "1971-12-01",
+        "endDate": "1971-12-01",
+        "nextRelease": null,
+        "popularityRank": 16207,
+        "ratingRank": null,
+        "ageRating": "G",
+        "ageRatingGuide": "All Ages",
+        "subtype": "music",
+        "status": "finished",
+        "tba": "",
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/40933/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/40933/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/40933/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/40933/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/40933/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 110,
+                "height": 156
+              },
+              "large": {
+                "width": 550,
+                "height": 780
+              },
+              "small": {
+                "width": 284,
+                "height": 402
+              },
+              "medium": {
+                "width": 390,
+                "height": 554
+              }
+            }
+          }
+        },
+        "coverImage": null,
+        "episodeCount": 1,
+        "episodeLength": 2,
+        "totalLength": 2,
+        "youtubeVideoId": "",
+        "showType": "music",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/40933/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/40933/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/40933/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/40933/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/40933/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/40933/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/40933/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/40933/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/40933/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/40933/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/40933/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/40933/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/40933/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/40933/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/40933/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/40933/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/40933/anime-staff"
+          }
+        }
+      }
+    },
+    {
+      "id": "3701",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/3701"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T16:56:54.050Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "kouya-no-shounen-isamu",
+        "synopsis": "The adventures of Isamu, a young boy living in the Far West, searching for his real father.",
+        "description": "The adventures of Isamu, a young boy living in the Far West, searching for his real father.",
+        "coverImageTopOffset": 0,
+        "titles": {
+          "en_jp": "Kouya no Shounen Isamu",
+          "ja_jp": "荒野の少年イサム"
+        },
+        "canonicalTitle": "Kouya no Shounen Isamu",
+        "abbreviatedTitles": [
+          "Willie Boy",
+          "Willy Boy",
+          "Shounen Isamu",
+          "The Rough and Ready Cowboy",
+          "Isamu the Wilderness Boy."
+        ],
+        "averageRating": null,
+        "ratingFrequencies": {
+          "2": "1",
+          "3": "0",
+          "4": "1",
+          "5": "0",
+          "6": "2",
+          "7": "0",
+          "8": "1",
+          "9": "0",
+          "10": "4",
+          "11": "0",
+          "12": "6",
+          "13": "0",
+          "14": "13",
+          "15": "0",
+          "16": "1",
+          "17": "0",
+          "18": "3",
+          "19": "0",
+          "20": "0"
+        },
+        "userCount": 87,
+        "favoritesCount": 0,
+        "startDate": "1973-04-04",
+        "endDate": "1974-03-27",
+        "nextRelease": null,
+        "popularityRank": 11241,
+        "ratingRank": null,
+        "ageRating": "G",
+        "ageRatingGuide": "All Ages",
+        "subtype": "TV",
+        "status": "finished",
+        "tba": null,
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/3701/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/3701/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/3701/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/3701/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/3701/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": null,
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "height": null
+              },
+              "small": {
+                "width": null,
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "height": null
+              }
+            }
+          }
+        },
+        "coverImage": null,
+        "episodeCount": 52,
+        "episodeLength": 24,
+        "totalLength": 1248,
+        "youtubeVideoId": "xx-Oq5Mcuvk",
+        "showType": "TV",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/3701/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/3701/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/3701/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/3701/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/3701/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/3701/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/3701/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/3701/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/3701/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/3701/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/3701/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/3701/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/3701/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/3701/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/3701/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/3701/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/3701/anime-staff"
+          }
+        }
+      }
+    },
+    {
+      "id": "41467",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/41467"
+      },
+      "attributes": {
+        "createdAt": "2018-07-07T20:44:11.790Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "a-day-before-us-zero",
+        "synopsis": "Two high school pals live together?\n\nYeo Reum and Wook... What the hell happened between them?\n\n(Source:A Day Before US Youtube Channel)",
+        "description": "Two high school pals live together?\n\nYeo Reum and Wook... What the hell happened between them?\n\n(Source:A Day Before US Youtube Channel)",
+        "coverImageTopOffset": 0,
+        "titles": {
+          "en_us": "A Day Before Us ZERO",
+          "ko_kr": "연애하루전2"
+        },
+        "canonicalTitle": "A Day Before Us ZERO",
+        "abbreviatedTitles": [
+          "A day before us 3rd season"
+        ],
+        "averageRating": "78.14",
+        "ratingFrequencies": {
+          "2": "38",
+          "3": "0",
+          "4": "2",
+          "5": "1",
+          "6": "7",
+          "7": "2",
+          "8": "36",
+          "9": "4",
+          "10": "16",
+          "11": "9",
+          "12": "44",
+          "13": "11",
+          "14": "216",
+          "15": "14",
+          "16": "73",
+          "17": "22",
+          "18": "28",
+          "19": "7",
+          "20": "336"
+        },
+        "userCount": 1741,
+        "favoritesCount": 4,
+        "startDate": "2018-10-05",
+        "endDate": "2019-02-08",
+        "nextRelease": null,
+        "popularityRank": 3754,
+        "ratingRank": 977,
+        "ageRating": "G",
+        "ageRatingGuide": "",
+        "subtype": "ONA",
+        "status": "finished",
+        "tba": "",
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/41467/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/41467/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/41467/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/41467/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/41467/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 110,
+                "height": 156
+              },
+              "large": {
+                "width": 550,
+                "height": 780
+              },
+              "small": {
+                "width": 284,
+                "height": 402
+              },
+              "medium": {
+                "width": 390,
+                "height": 554
+              }
+            }
+          }
+        },
+        "coverImage": {
+          "tiny": "https://media.kitsu.io/anime/cover_images/41467/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/cover_images/41467/large.jpg",
+          "small": "https://media.kitsu.io/anime/cover_images/41467/small.jpg",
+          "original": "https://media.kitsu.io/anime/cover_images/41467/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 840,
+                "height": 200
+              },
+              "large": {
+                "width": 3360,
+                "height": 800
+              },
+              "small": {
+                "width": 1680,
+                "height": 400
+              }
+            }
+          }
+        },
+        "episodeCount": 19,
+        "episodeLength": 2,
+        "totalLength": 53,
+        "youtubeVideoId": "GQtqVe2GXqw",
+        "showType": "ONA",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/41467/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/41467/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/41467/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/41467/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/41467/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/41467/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/41467/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/41467/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/41467/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/41467/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/41467/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/41467/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/41467/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/41467/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/41467/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/41467/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/41467/anime-staff"
+          }
+        }
+      }
+    },
+    {
+      "id": "4036",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/4036"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T17:02:02.705Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "beast-wars-second-lioconvoy-in-imminent-danger",
+        "synopsis": "The movie begins with a space battle between the space pirate Seacons and the Cybertron Jointron brothers. Both combine, forming God Neptune and Tripledacus respectively, and being fighting iit out. They become heavily engaged in combat, until a mysterious spaceship knocks them both deeper into space. Back at the Cybertron base, one of the Cybertron warriors, Apache, informs the Cybertrons that an object is approaching Planet Gaea. The Destrons have also noticed the spaceship. Galvatron and his brother Gigastorm discuss it and Galvatron decides that the ship is a positive sign, and it will bring good luck.",
+        "description": "The movie begins with a space battle between the space pirate Seacons and the Cybertron Jointron brothers. Both combine, forming God Neptune and Tripledacus respectively, and being fighting iit out. They become heavily engaged in combat, until a mysterious spaceship knocks them both deeper into space. Back at the Cybertron base, one of the Cybertron warriors, Apache, informs the Cybertrons that an object is approaching Planet Gaea. The Destrons have also noticed the spaceship. Galvatron and his brother Gigastorm discuss it and Galvatron decides that the ship is a positive sign, and it will bring good luck.",
+        "coverImageTopOffset": 0,
+        "titles": {
+          "en_jp": "Beast Wars Second Chou Seimeitai Transformers: Lio Convoy Kiki Ippatsu! Movie",
+          "ja_jp": "映画 ビーストウォーズII[セカンド]超生命体トランスフォーマー ライオコンボイ危機一髪!"
+        },
+        "canonicalTitle": "Beast Wars Second Chou Seimeitai Transformers: Lio Convoy Kiki Ippatsu! Movie",
+        "abbreviatedTitles": [
+          "Transformers: Beast Wars II: The Movie (special)",
+          "Movie Edition Beast Wars Special",
+          "Beast Wars: Super Lifeform Transformers Special",
+          "Beast Wars Second: LioConvoy in Imminent Danger!"
+        ],
+        "averageRating": "63.7",
+        "ratingFrequencies": {
+          "2": "3",
+          "3": "0",
+          "4": "3",
+          "5": "0",
+          "6": "3",
+          "7": "0",
+          "8": "9",
+          "9": "0",
+          "10": "15",
+          "11": "0",
+          "12": "26",
+          "13": "0",
+          "14": "11",
+          "15": "0",
+          "16": "0",
+          "17": "0",
+          "18": "2",
+          "19": "0",
+          "20": "1"
+        },
+        "userCount": 128,
+        "favoritesCount": 0,
+        "startDate": "1998-12-19",
+        "endDate": "1998-12-19",
+        "nextRelease": null,
+        "popularityRank": 10195,
+        "ratingRank": 8467,
+        "ageRating": "PG",
+        "ageRatingGuide": "Teens 13 or older",
+        "subtype": "movie",
+        "status": "finished",
+        "tba": null,
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/4036/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/4036/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/4036/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/4036/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/4036/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": 110,
+                "height": 156
+              },
+              "large": {
+                "width": 550,
+                "height": 780
+              },
+              "small": {
+                "width": 284,
+                "height": 402
+              },
+              "medium": {
+                "width": 390,
+                "height": 554
+              }
+            }
+          }
+        },
+        "coverImage": null,
+        "episodeCount": 1,
+        "episodeLength": 46,
+        "totalLength": 46,
+        "youtubeVideoId": null,
+        "showType": "movie",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/4036/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/4036/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/4036/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/4036/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/4036/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/4036/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/4036/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/4036/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/4036/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/4036/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/4036/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/4036/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/4036/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/4036/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/4036/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/4036/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/4036/anime-staff"
+          }
+        }
+      }
+    },
+    {
+      "id": "2424",
+      "type": "anime",
+      "links": {
+        "self": "https://kitsu.io/api/edge/anime/2424"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T16:38:03.794Z",
+        "updatedAt": "2022-08-06T06:00:03.317Z",
+        "slug": "doraemon-nobita-s-the-night-before-a-wedding",
+        "synopsis": "Nobita and Doraemon travel into the future to see whether or not Nobita will marry Shizuka. Once they arrive, they find out that instead of travelling to the day of the wedding, they travelled to the day before the wedding. Afterwards, the pair follow the future Nobita and his friends as they try to return a lost cat to its owner.\n(Source: ANN)",
+        "description": "Nobita and Doraemon travel into the future to see whether or not Nobita will marry Shizuka. Once they arrive, they find out that instead of travelling to the day of the wedding, they travelled to the day before the wedding. Afterwards, the pair follow the future Nobita and his friends as they try to return a lost cat to its owner.\n(Source: ANN)",
+        "coverImageTopOffset": 0,
+        "titles": {
+          "en_jp": "Doraemon: Nobita's the Night Before a Wedding",
+          "ja_jp": "ドラえもん のび太の結婚前夜 The night before a wedding"
+        },
+        "canonicalTitle": "Doraemon: Nobita's the Night Before a Wedding",
+        "abbreviatedTitles": [
+          "Doraemon: Nobita no Kekkon Zenya"
+        ],
+        "averageRating": "70.37",
+        "ratingFrequencies": {
+          "2": "3",
+          "3": "0",
+          "4": "0",
+          "5": "0",
+          "6": "4",
+          "7": "0",
+          "8": "3",
+          "9": "0",
+          "10": "6",
+          "11": "0",
+          "12": "50",
+          "13": "1",
+          "14": "64",
+          "15": "1",
+          "16": "28",
+          "17": "0",
+          "18": "7",
+          "19": "0",
+          "20": "9"
+        },
+        "userCount": 205,
+        "favoritesCount": 1,
+        "startDate": "1999-03-06",
+        "endDate": "1999-03-06",
+        "nextRelease": null,
+        "popularityRank": 8863,
+        "ratingRank": 4182,
+        "ageRating": "PG",
+        "ageRatingGuide": "Children",
+        "subtype": "movie",
+        "status": "finished",
+        "tba": null,
+        "posterImage": {
+          "tiny": "https://media.kitsu.io/anime/poster_images/2424/tiny.jpg",
+          "large": "https://media.kitsu.io/anime/poster_images/2424/large.jpg",
+          "small": "https://media.kitsu.io/anime/poster_images/2424/small.jpg",
+          "medium": "https://media.kitsu.io/anime/poster_images/2424/medium.jpg",
+          "original": "https://media.kitsu.io/anime/poster_images/2424/original.jpg",
+          "meta": {
+            "dimensions": {
+              "tiny": {
+                "width": null,
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "height": null
+              },
+              "small": {
+                "width": null,
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "height": null
+              }
+            }
+          }
+        },
+        "coverImage": null,
+        "episodeCount": 1,
+        "episodeLength": 26,
+        "totalLength": 26,
+        "youtubeVideoId": null,
+        "showType": "movie",
+        "nsfw": false
+      },
+      "relationships": {
+        "genres": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/genres",
+            "related": "https://kitsu.io/api/edge/anime/2424/genres"
+          }
+        },
+        "categories": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/categories",
+            "related": "https://kitsu.io/api/edge/anime/2424/categories"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/castings",
+            "related": "https://kitsu.io/api/edge/anime/2424/castings"
+          }
+        },
+        "installments": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/installments",
+            "related": "https://kitsu.io/api/edge/anime/2424/installments"
+          }
+        },
+        "mappings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/mappings",
+            "related": "https://kitsu.io/api/edge/anime/2424/mappings"
+          }
+        },
+        "reviews": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/reviews",
+            "related": "https://kitsu.io/api/edge/anime/2424/reviews"
+          }
+        },
+        "mediaRelationships": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/media-relationships",
+            "related": "https://kitsu.io/api/edge/anime/2424/media-relationships"
+          }
+        },
+        "characters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/characters",
+            "related": "https://kitsu.io/api/edge/anime/2424/characters"
+          }
+        },
+        "staff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/staff",
+            "related": "https://kitsu.io/api/edge/anime/2424/staff"
+          }
+        },
+        "productions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/productions",
+            "related": "https://kitsu.io/api/edge/anime/2424/productions"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/anime/2424/quotes"
+          }
+        },
+        "episodes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/episodes",
+            "related": "https://kitsu.io/api/edge/anime/2424/episodes"
+          }
+        },
+        "streamingLinks": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/streaming-links",
+            "related": "https://kitsu.io/api/edge/anime/2424/streaming-links"
+          }
+        },
+        "animeProductions": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/anime-productions",
+            "related": "https://kitsu.io/api/edge/anime/2424/anime-productions"
+          }
+        },
+        "animeCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/anime-characters",
+            "related": "https://kitsu.io/api/edge/anime/2424/anime-characters"
+          }
+        },
+        "animeStaff": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/anime/2424/relationships/anime-staff",
+            "related": "https://kitsu.io/api/edge/anime/2424/anime-staff"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "count": 146
+  },
+  "links": {
+    "first": "https://kitsu.io/api/edge/anime?filter%5Btext%5D=cowboy+bebop&page%5Blimit%5D=10&page%5Boffset%5D=0",
+    "next": "https://kitsu.io/api/edge/anime?filter%5Btext%5D=cowboy+bebop&page%5Blimit%5D=10&page%5Boffset%5D=10",
+    "last": "https://kitsu.io/api/edge/anime?filter%5Btext%5D=cowboy+bebop&page%5Blimit%5D=10&page%5Boffset%5D=136"
+  }
+}
