@@ -1,10 +1,16 @@
-.card-body {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Ubuntu:wght@300&display=swap');
+body{
+  font-family: 'Ubuntu', sans-serif !important;
 }
 
-.card:hover {
-  opacity: .7;
-  cursor: pointer;
+::selection{
+  color: whitesmoke;
+  background-color: black;
 }
+
+/*
+font-family: 'Quicksand',
+sans-serif;
+font-family: 'Ubuntu',
+sans-serif;
+*/

@@ -1,5 +1,4 @@
 import React from 'react';
-import './stylesheets/App.css';
 import 'mdb-react-ui-kit/dist/css/mdb.min.css'
 import { Route, Routes } from 'react-router-dom';
 import Home from './pages/home_anime';
@@ -9,6 +8,8 @@ import Navbar from './components/navbar';
 import HomeManga from './pages/home_manga';
 import MangaPage from './pages/manga_page';
 import Result from './components/result';
+import './stylesheets/App.css';
+import Footer from './components/footer';
 function App() {
   return (
     <>
@@ -22,6 +23,7 @@ function App() {
           <Route path='search/' element={<Result />} />
         </Routes>
       </MDBContainer>
+      <Footer/>
     </>
   );
 

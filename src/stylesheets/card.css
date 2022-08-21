@@ -1,0 +1,4 @@
+.result-card:hover {
+  opacity: .7;
+  cursor: pointer;
+}

@@ -63,7 +63,7 @@ export default function Navbar() {
               <input className='form-control' placeholder="Type query" aria-label="Search" type='Search' onChange={(e) => setQuery(e.target.value)} />
               <MDBBtn outline onClick={() => {
                 setQuery(query);
-                navigate(`/search?q=${query}&type=${contentType.toLowerCase()}&offset=1`);
+                navigate(`/search?q=${query}&type=${contentType.toLowerCase()}&offset=0`);
               }}>Search</MDBBtn>
 
             </MDBInputGroup>
