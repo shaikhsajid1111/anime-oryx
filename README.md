@@ -29,5 +29,5 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 </p>
 
 <h3>Screenshot</h3>
-<img src="screenshots/Home.jpeg" alt="Screenshot Of Home Page" />
+<img src="screenshots/Search.jpeg" alt="Screenshot Of Search Page" />
 
