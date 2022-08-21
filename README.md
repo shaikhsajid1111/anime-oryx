@@ -8,12 +8,12 @@ In the project directory, you can run:
 <h3> <code>npm start</code> </h3>
 <p>
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open <a href="http://localhost:3000">http://localhost:3000</a> to view it in the browser.
 </p>
 <h3> <code>npm test</code></h3>
 <p>
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about <a href="https://facebook.github.io/create-react-app/docs/running-tests">running tests</a> for more information.
 </p>
 
 <h3> <code>npm run build </code> </h3>
