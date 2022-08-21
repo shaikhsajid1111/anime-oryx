@@ -33,8 +33,8 @@ export default function Navbar() {
           <MDBNavbarBrand href='#'>AnimeOryx</MDBNavbarBrand>
           <MDBNavbarToggler
             type='button'
-            data-target='#navbarTogglerDemo02'
-            aria-controls='navbarTogglerDemo02'
+            data-target='#navbarToggler'
+            aria-controls='navbarToggler'
             aria-expanded='false'
             aria-label='Toggle navigation'
             onClick={() => setShowNavNoTogglerSecond(!showNavNoTogglerSecond)}
