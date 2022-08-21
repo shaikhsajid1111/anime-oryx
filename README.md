@@ -1,6 +1,6 @@
 <h1> Anime Oryx</h1>
-<p> Web Application that lets you search Anime or Manga.</p>
-
+<p> A Web Application that lets you search information about Anime or Manga.</p>
+<hr>
 <h3> Available Scripts</h3>
 
 In the project directory, you can run:
@@ -27,7 +27,15 @@ It correctly bundles React in production mode and optimizes the build for the be
 <p>
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 </p>
-
+<hr>
 <h3>Screenshot</h3>
 <img src="screenshots/Search.jpeg" alt="Screenshot Of Search Page" />
-
+<hr>
+<h3>Tech</h3>
+<li><a href="https://kitsu.io/explore/anime">Kitsu API</a></li>
+<li><a href="https://reactjs.org/">React</a></li>
+<li><a href="https://mdbootstrap.com/docs/react/">MDB</a></li>
+<li><a href="https://www.npmjs.com/package/react-router-dom">React Router DOM</a></li>
+<li><a href="https://www.npmjs.com/package/axios">Axios</a></li>
+<li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+<li><a href="https://getbootstrap.com/">Bootstrap</a></li>
